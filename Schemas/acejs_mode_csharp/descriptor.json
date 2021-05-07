@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "0e7318da-5094-30ad-5f1c-f66d14092bbe",
+    "Name": "acejs_mode_csharp",
+    "ModifiedOnUtc": "\/Date(1615571951000)\/",
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "acejs_mode_csharp",
+    "DependsOn": []
+  }
+}

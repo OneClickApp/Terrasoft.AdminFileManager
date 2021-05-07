@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "2d5c1bca-ff87-9237-e16f-55f993152bf0",
+    "Name": "MultipartParserClass",
+    "ModifiedOnUtc": "\/Date(1615530393000)\/",
+    "ManagerName": "SourceCodeSchemaManager",
+    "Caption": "MultipartParser",
+    "DependsOn": []
+  }
+}

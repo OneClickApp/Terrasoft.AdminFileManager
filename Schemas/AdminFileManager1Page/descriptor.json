@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "ce712135-6b16-498a-9318-e62bb2b13ec3",
+    "Name": "AdminFileManager1Page",
+    "ModifiedOnUtc": "\/Date(1615454006000)\/",
+    "Parent": {
+      "UId": "d62293c0-7f14-44b1-b547-735fb40499cd",
+      "Name": "BaseModulePageV2"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Страница редактирования: \"Файловый менеджер\"",
+    "DependsOn": []
+  }
+}

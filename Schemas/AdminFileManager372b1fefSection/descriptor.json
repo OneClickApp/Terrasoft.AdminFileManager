@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "df9092e4-774b-4022-b083-865e2bbfcc35",
+    "Name": "AdminFileManager372b1fefSection",
+    "ModifiedOnUtc": "\/Date(1620402896000)\/",
+    "Parent": {
+      "UId": "7912fb69-4fee-429f-8b23-93943c35d66d",
+      "Name": "BaseSectionV2"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Схема раздела: \"Файловый менеджер\"",
+    "DependsOn": []
+  }
+}

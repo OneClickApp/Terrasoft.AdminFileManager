@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "27e375fc-93f1-4368-be8f-9abf432c14eb",
+    "Name": "AdminFileManager",
+    "ModifiedOnUtc": "\/Date(1615468868000)\/",
+    "Parent": {
+      "UId": "1bab9dcf-17d5-49f8-9536-8e0064f1dce0",
+      "Name": "BaseEntity"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "File manager",
+    "DependsOn": []
+  }
+}

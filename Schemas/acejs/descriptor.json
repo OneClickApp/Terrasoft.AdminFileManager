@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "ab352800-011a-236f-3124-ae77256b5ca3",
+    "Name": "acejs",
+    "ModifiedOnUtc": "\/Date(1615573372000)\/",
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "acejs",
+    "DependsOn": []
+  }
+}

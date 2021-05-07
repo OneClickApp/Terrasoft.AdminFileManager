@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "8afb4af3-e713-45ad-8ce8-4888bba933ba",
+    "Name": "AdminFileManagerFile",
+    "ModifiedOnUtc": "\/Date(1615454008000)\/",
+    "Parent": {
+      "UId": "556c5867-60a7-4456-aae1-a57a122bef70",
+      "Name": "File"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Файл и ссылка объекта Файловый менеджер",
+    "DependsOn": []
+  }
+}

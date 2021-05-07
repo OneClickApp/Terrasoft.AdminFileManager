@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "3f86aeb0-0f92-9ae3-2a6a-b0aefcd89ed0",
+    "Name": "acejs_mode_xml",
+    "ModifiedOnUtc": "\/Date(1615573219000)\/",
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "acejs_mode_xml",
+    "DependsOn": []
+  }
+}

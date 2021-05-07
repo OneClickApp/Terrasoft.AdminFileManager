@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "6e9a7ab1-72cd-4960-b43f-948ba2ee4257",
+    "Name": "AdminFileManagerInFolder",
+    "ModifiedOnUtc": "\/Date(1615454010000)\/",
+    "Parent": {
+      "UId": "4f63bafb-e9e7-4082-b92e-66b97c14017c",
+      "Name": "BaseItemInFolder"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Файловый менеджер в группе",
+    "DependsOn": []
+  }
+}

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="File manager" />
+			<Item Name="Columns.FullPath.Caption" Value="Full path" />
+			<Item Name="Columns.Name.Caption" Value="Name" />
+			<Item Name="Columns.Notes.Caption" Value="Заметки" />
+			<Item Name="Columns.Size.Caption" Value="Size" />
+			<Item Name="Columns.Type.Caption" Value="Type" />
+		</Items>
+	</Group>
+</Resources>

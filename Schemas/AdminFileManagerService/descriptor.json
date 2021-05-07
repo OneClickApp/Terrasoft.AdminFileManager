@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "a88f77c8-be9d-2870-6c23-b3dac5da6478",
+    "Name": "AdminFileManagerService",
+    "ModifiedOnUtc": "\/Date(1620402346000)\/",
+    "ManagerName": "SourceCodeSchemaManager",
+    "Caption": "AdminFileManagerService",
+    "DependsOn": []
+  }
+}

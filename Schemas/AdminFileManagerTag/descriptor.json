@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "21ab9c88-07f1-4ccb-b064-664f03fe2adf",
+    "Name": "AdminFileManagerTag",
+    "ModifiedOnUtc": "\/Date(1615454010000)\/",
+    "Parent": {
+      "UId": "9e3f203c-e905-4de5-9468-335b193f2439",
+      "Name": "BaseTag"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Тег раздела Файловый менеджер",
+    "DependsOn": []
+  }
+}

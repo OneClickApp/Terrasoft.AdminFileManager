@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ru-RU">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Файловый менеджер" />
+			<Item Name="Columns.FullPath.Caption" Value="Полный путь" />
+			<Item Name="Columns.Name.Caption" Value="Название" />
+			<Item Name="Columns.Notes.Caption" Value="Заметки" />
+			<Item Name="Columns.Size.Caption" Value="Размер" />
+			<Item Name="Columns.Type.Caption" Value="Тип" />
+		</Items>
+	</Group>
+</Resources>

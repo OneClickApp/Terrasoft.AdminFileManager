@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "e6fb842f-a350-9df9-16ab-de1173857bfd",
+    "Name": "AdminFileEditorService",
+    "ModifiedOnUtc": "\/Date(1616515521000)\/",
+    "ManagerName": "SourceCodeSchemaManager",
+    "Caption": "AdminFileEditorService",
+    "DependsOn": []
+  }
+}
